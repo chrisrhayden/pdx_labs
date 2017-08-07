@@ -1,0 +1,73 @@
+#py1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.first {
+    display: flex;
+    height: 300px;
+    background-color: black;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.f1 {
+    height: 200px;
+    width: 90%;
+    background-color: white;
+}
+
+.fuckcss {
+    display: flex;
+    height: 300px;
+    background-color: black;
+    margin: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fu1 {
+    height: 200px;
+    width: 60%;
+    background-color: white;
+}
+
+.fu2 {
+    height: 200px;
+    width: 30%;
+    background-color: blue;
+}
+
+.last {
+    display: flex;
+    height: 300px;
+    margin: 20px;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.l1 {
+    height: 200px;
+    background-color: green;
+    width: 30%;
+
+}
+
+.l2 {
+    height: 200px;
+    background-color: green;
+    width: 30%;
+
+}
+
+.l3 {
+    height: 200px;
+    background-color: green;
+    width: 30%;
+
+}
